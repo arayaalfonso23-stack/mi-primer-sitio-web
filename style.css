@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    text-align: center;
+    margin: 40px;
+}
+
+h1 {
+    color: #0078d7;
+}
+
+h2 {
+    color: #444;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.tarjeta {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
